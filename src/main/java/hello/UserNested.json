@@ -1,0 +1,13 @@
+{
+  "name": "taixingbi" ,
+  "email": "tb@gmail.com" ,
+  "age": 38 ,
+  "isDeveloper": true,
+  "userAddress": {
+    "city": "bk",
+    "country": "us",
+    "houseNumber": "1138",
+    "street": "ocean ave"
+  }
+}
+
